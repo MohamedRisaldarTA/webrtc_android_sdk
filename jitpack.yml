@@ -1,5 +1,5 @@
 before_install:
-   - ./custom_setup.sh
+   - ./jitpack_setup.sh
 install:
    - echo "Running a custom install command"
    - true
